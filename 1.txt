@@ -1,0 +1,25 @@
+  
+
+
+ Denys Myneev
+Домащнее задание 1:
+1) pwd
+2) mkdir
+3) cd Foldername
+4) mkdir A B C
+5) cd foldername
+6) touch 1.txt 2.txt 3.txt 4.json 5.json1
+7) mkdir 1 2 3  
+8) ls -la
+9) vim Namefile
+10)i
+11)Escape:wq Enter
+12)cd .. 
+13) mv 1.txt 2.txt Namefolder
+14) CP 4.json 5.json Namefolder
+15)find Namefile
+16)?
+17) grep -C2 "EE" /var/log/xorg.0.log
+18)  grep -B4 "EE" /var/log/xorg.0.log
+19)less -s textfile.txt
+20) data
